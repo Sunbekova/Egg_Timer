@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		199D5FC42CC7B2DD00D10189 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 199D5FC32CC7B2DD00D10189 /* alarm_sound.mp3 */; };
 		19F509DA2CC6E987001C16DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19F509D92CC6E987001C16DD /* AppDelegate.swift */; };
 		19F509DC2CC6E987001C16DD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19F509DB2CC6E987001C16DD /* SceneDelegate.swift */; };
 		19F509DE2CC6E987001C16DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19F509DD2CC6E987001C16DD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		199D5FC32CC7B2DD00D10189 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = ../../../../../Downloads/alarm_sound.mp3; sourceTree = "<group>"; };
 		19F509D62CC6E987001C16DD /* Egg_Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Egg_Timer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		19F509D92CC6E987001C16DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		19F509DB2CC6E987001C16DD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				19F509DD2CC6E987001C16DD /* ViewController.swift */,
 				19F509DF2CC6E987001C16DD /* Main.storyboard */,
 				19F509E22CC6E98A001C16DD /* Assets.xcassets */,
+				199D5FC32CC7B2DD00D10189 /* alarm_sound.mp3 */,
 				19F509E42CC6E98A001C16DD /* LaunchScreen.storyboard */,
 				19F509E72CC6E98A001C16DD /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				19F509E32CC6E98A001C16DD /* Assets.xcassets in Resources */,
 				19F509E62CC6E98A001C16DD /* Base in Resources */,
+				199D5FC42CC7B2DD00D10189 /* alarm_sound.mp3 in Resources */,
 				19F509E12CC6E987001C16DD /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
