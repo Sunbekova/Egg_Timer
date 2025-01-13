@@ -36,8 +36,9 @@ a progress bar to visually track boiling time, and an alarm sound to notify user
 
 # Project Preview
 
-![eggTimerLounch](https://github.com/user-attachments/assets/86384dca-bf8f-41fd-b2ea-2694ba396b07)
-![eggTimerMain](https://github.com/user-attachments/assets/260a9df6-37ed-4821-8253-aa462e18f99c)
+| Lounch Screen                  | App Screen                         |
+|----------------------------------|--------------------------------|
+| ![eggTimerLounch](https://github.com/user-attachments/assets/86384dca-bf8f-41fd-b2ea-2694ba396b07) | ![eggTimerMain](https://github.com/user-attachments/assets/260a9df6-37ed-4821-8253-aa462e18f99c) |
 
 https://github.com/user-attachments/assets/d87c86bb-ec22-4156-b692-ad1a2e7fc464
 
